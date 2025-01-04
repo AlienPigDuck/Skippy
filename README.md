@@ -1,3 +1,5 @@
+**E-mail dropdown**
+
 This workflow is a snippet trigger enabling the user to select an e-mail address from a dropdown list.
 
 Snippet Trigger
