@@ -1,6 +1,6 @@
 **E-mail dropdown**
 
-A few things need to be set up in advance from the workflow window after downloading and installing [E-mail.dropdown.alfredworkflow]
+A few things need to be set up in advance from the Alfred workflow window after downloading and installing [E-mail.dropdown.alfredworkflow]
 
 ### Snippet Trigger  
 Input your desired snippet trigger in the KEYWORD input box.  
